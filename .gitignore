@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.env
+.env
+.venv
+venv/
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Node.js
+node_modules/
+dist/
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+*.lcov
+
+# Frontend build
+frontend/dist/
+
+# Backend build
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/models/__pycache__/
+backend/app/services/__pycache__/
+
+# Misc
+*.swp
+*.swo
+
+# IDEs
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+
+# Optional: lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
