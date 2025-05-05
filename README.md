@@ -1,5 +1,7 @@
 # Ad Insights Explorer Lite
 
+[<img src="page.png" alt="App Screenshot" width="400"/>](page.png)
+
 A full-stack web application for exploring and analyzing post data, built with FastAPI (backend) and React + TypeScript + Vite (frontend).
 
 ## Project Structure
